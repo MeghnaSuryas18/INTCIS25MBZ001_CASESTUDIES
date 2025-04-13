@@ -1,0 +1,42 @@
+#table-body{
+    margin-left: 100px;
+}
+
+.table{
+    border-spacing: 25px;
+    padding-right: 1px;
+    padding-top: 1px;
+  
+}
+
+#table-heading{
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 28px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    text-align: start;
+}
+
+.table-subheading{
+    font-weight: bold;
+    font-size: 22px;
+}
+td{
+    font-size: 20px;
+}
+#table-heading2{
+    color:green;
+    white-space: nowrap;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.item-price{
+    text-align: right;
+}
+
+#table-body {
+    max-height: 75vh;
+    overflow-y: auto; 
+}
